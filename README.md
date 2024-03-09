@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on an Amharic sign language translator using computer vision.<br>👯 I’m looking to collaborate on projects.<br>🌱 I’m learning deep learning.<br>
+🔭 I’m working on an Amharic sign language translator using computer vision.<br>🌱 I’m learning deep learning.<br>
 
 
 ## 🌐 Socials:
